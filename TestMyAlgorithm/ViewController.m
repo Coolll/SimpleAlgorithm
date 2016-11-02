@@ -18,7 +18,7 @@
     [super viewDidLoad];
 
    
-//    [self loadMySecondTestMethod];
+    [self loadMySecondTestMethod];
     
 }
 

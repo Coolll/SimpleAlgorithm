@@ -19,10 +19,10 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
     //注册
-    [self loadWQLLocalNotificationWithApplication:application];
+//    [self loadWQLLocalNotificationWithApplication:application];
     
     //触发
-    [self startTriggerNotification];
+//    [self startTriggerNotification];
     
     return YES;
 }
